@@ -5,4 +5,9 @@ que consistem e como podem ser resolvidos esses conflitos?
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as 
 diferenças entre eles? 
 
+Ordem dos comandos
+git init
 git add .
+git remote add origin https://github.com/paulinhopintainho-ux/FichaPraticaPWA.git
+git commit -m 'aa'
+git push -u origin master
