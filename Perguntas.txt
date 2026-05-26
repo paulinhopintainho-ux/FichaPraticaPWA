@@ -4,3 +4,5 @@
 que consistem e como podem ser resolvidos esses conflitos? 
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as 
 diferenças entre eles? 
+
+git add .
